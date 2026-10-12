@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../core/theme/aty_theme.dart';
-import 'router/app_router.dart';
+import '../core/theme/theme.dart';
+import 'router/router.dart';
 
 class AtyApp extends StatelessWidget {
   const AtyApp({super.key});
